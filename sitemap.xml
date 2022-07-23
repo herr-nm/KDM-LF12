@@ -1,23 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>None</loc>
-         <lastmod>2022-07-13</lastmod>
+         <loc>https://herr-nm.github.io/KDM-LF12/index.html</loc>
+         <lastmod>2022-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2022-07-13</lastmod>
+         <loc>https://herr-nm.github.io/KDM-LF12/kapitel_00.html</loc>
+         <lastmod>2022-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2022-07-13</lastmod>
+         <loc>https://herr-nm.github.io/KDM-LF12/kapitel_01.html</loc>
+         <lastmod>2022-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
-         <lastmod>2022-07-13</lastmod>
+         <loc>https://herr-nm.github.io/KDM-LF12/kapitel_02.html</loc>
+         <lastmod>2022-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://herr-nm.github.io/KDM-LF12/kapitel_03.html</loc>
+         <lastmod>2022-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://herr-nm.github.io/KDM-LF12/kapitel_04.html</loc>
+         <lastmod>2022-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://herr-nm.github.io/KDM-LF12/kapitel_05.html</loc>
+         <lastmod>2022-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://herr-nm.github.io/KDM-LF12/inhalte/lizenzhinweis.html</loc>
+         <lastmod>2022-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://herr-nm.github.io/KDM-LF12/inhalte/kapitel_00/kap_00_H0.0_Zielform_u_Inhalte.md.html</loc>
+         <lastmod>2022-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://herr-nm.github.io/KDM-LF12/inhalte/kapitel_00/kap_00_H0.1_Bewertungshinweise.html</loc>
+         <lastmod>2022-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://herr-nm.github.io/KDM-LF12/inhalte/kapitel_00/kap_00_H0.2_Aufbau_Moodlekurs.html</loc>
+         <lastmod>2022-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://herr-nm.github.io/KDM-LF12/inhalte/kapitel_00/kap_00_M0.0_Mitarbeit.html</loc>
+         <lastmod>2022-07-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://herr-nm.github.io/KDM-LF12/inhalte/kapitel_00/kap_00_M0.2_Aufbau_Moodlekurs.html</loc>
+         <lastmod>2022-07-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
